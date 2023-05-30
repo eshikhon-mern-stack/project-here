@@ -52,3 +52,8 @@ ul li:last-child:hover{
 .myButton:hover a{
     color: #00afaa  !important;
 }
+
+#automative{
+    /* overflow: hidden !important; */
+    margin: 0;
+}
